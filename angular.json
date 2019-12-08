@@ -20,6 +20,9 @@
             "tsConfig": "tsconfig.app.json",
             "aot": false,
             "assets": [
+              "src/CNAME",
+              "src/sitemap.xml",
+              "src/robots.txt",
               "src/favicon.png",
               "src/assets"
             ],
